@@ -58,7 +58,7 @@ Easily automate adding members to WhatsApp groups using **Selenium**. This tool 
 ## ❗ Important Notes
 
 - **You must manually extract the contact column from Excel** and save it as `contacts.txt`.
-- **The script will automatically add `+91` before each number**.
+- **The script will automatically add `91` before each number**.
 - If an error occurs, **the script will freeze for 2 minutes** instead of crashing.
 - You **must be an admin** to add members.
 
