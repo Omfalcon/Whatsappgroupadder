@@ -2,7 +2,7 @@ import csv
 import os
 
 # File paths
-txt_file_path = "sample_contacts.txt"
+txt_file_path = "number.txt"
 csv_file_path = "contacts.csv"
 
 # Define all columns from the template

@@ -1,2 +1,6 @@
 selenium
 webdriver-manager
+undetected-chromedriver>=3.5.4
+
+setuptools>=69.0.3
+
